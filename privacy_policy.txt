@@ -1,0 +1,36 @@
+Privacy Policy
+
+Last updated: October 2025
+
+This Privacy Policy describes how we handle your information when you
+use our application.
+We value your privacy and are committed to protecting your personal
+data.
+
+Information We Collect
+
+We may collect basic user information such as name, email address, or
+device information, only when necessary to provide our services.
+
+How We Use Information
+
+We use collected information solely to improve app performance, user
+experience, and functionality. We do not sell or share your personal
+data with third parties.
+
+Data Security
+
+We implement appropriate measures to protect your information against
+unauthorized access, alteration, or destruction.
+
+Your Rights
+
+You can contact us at any time to request access, correction, or
+deletion of your personal information.
+
+Updates to This Policy
+
+We may update this Privacy Policy from time to time. All updates will be
+posted within the app or on our official repository.
+
+If you have any questions about this Privacy Policy, please contact us.
